@@ -9,35 +9,37 @@ networkmanager
 ## sway
 
 sway
-waybar
 otf-font-awesome
-foot
 noto-fonts
 nm-applet
 
 ## hyprland
 
 hyprland
-waybar
 hyprpaper
 uwsm
 ttf-noto-nerd
 qt5-wayland
 qt6-wayland
-kitty
 nm-applet
 wofi
 
-## optional
+## taskbar
 
+(waybar)
 quickshell
 eww
+
+# terminal
+
+foot
+ttf-jetbrains-mono-nerd
 
 # audio
 
 pipewire
 wireplumber
-helvum
+helvum/qpwgraph
 pipewire-audio
 pipewire-alsa
 pipewire-pulse

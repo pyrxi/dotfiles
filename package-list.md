@@ -4,7 +4,6 @@
 
 networkmanager
 
-
 # wm
 
 ## sway
@@ -14,6 +13,7 @@ waybar
 otf-font-awesome
 foot
 noto-fonts
+nm-applet
 
 ## hyprland
 
@@ -25,6 +25,8 @@ ttf-noto-nerd
 qt5-wayland
 qt6-wayland
 kitty
+nm-applet
+wofi
 
 ## optional
 

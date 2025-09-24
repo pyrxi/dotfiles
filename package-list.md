@@ -23,6 +23,8 @@ qt5-wayland
 qt6-wayland
 nm-applet
 wofi
+swww
+mako
 
 ## taskbar
 

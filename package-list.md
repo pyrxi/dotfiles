@@ -7,9 +7,29 @@ networkmanager
 
 # wm
 
+## sway
+
 sway
 waybar
 otf-font-awesome
+foot
+noto-fonts
+
+## hyprland
+
+hyprland
+waybar
+hyprpaper
+uwsm
+ttf-noto-nerd
+qt5-wayland
+qt6-wayland
+kitty
+
+## optional
+
+quickshell
+eww
 
 # audio
 

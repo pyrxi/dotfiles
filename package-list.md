@@ -27,6 +27,8 @@ mako
 xdg-desktop-portal-hyprland
 xdg-desktop-portal-gtk
 hyprpolkitagent
+nautilus
+udiskie
 
 ## taskbar
 

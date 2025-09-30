@@ -25,6 +25,8 @@ nm-applet
 wofi
 swww
 mako
+xdg-desktop-portal-hyprland
+xdg-desktop-portal-gtk
 
 ## taskbar
 
